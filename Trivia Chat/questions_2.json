@@ -1,0 +1,113 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game did &quot;Sonic The Hedgehog&quot; make his first appearance in?",
+      "correct_answer": "Rad Mobile",
+      "incorrect_answers": [
+        "Sonic The Hedgehog",
+        "Super Mario 64",
+        "Mega Man"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which of these is NOT a player class in Team Fortress 2?",
+      "correct_answer": "Healer",
+      "incorrect_answers": [
+        "Demoman",
+        "Pyro",
+        "Spy"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of the following Assyrian kings did NOT rule during the Neo-Assyrian Empire?",
+      "correct_answer": "Shamshi-Adad III",
+      "incorrect_answers": [
+        "Shalmaneser V",
+        "Esharhaddon",
+        "Ashur-nasir-pal II"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In the 1994 movie &quot;Speed&quot;, what is the minimum speed the bus must go to prevent to bomb from exploding?",
+      "correct_answer": "50 mph",
+      "incorrect_answers": [
+        "60 mph",
+        "40 mph",
+        "70 mph"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who voiced Metalbeard in &quot;The Lego Movie&quot;?",
+      "correct_answer": "Nick Offerman",
+      "incorrect_answers": [
+        "Liam Neeson",
+        "Morgan Freeman",
+        "Will Arnet"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What is the unit of electrical inductance?",
+      "correct_answer": "Henry",
+      "incorrect_answers": [
+        "Weber",
+        "Coulomb",
+        "Mho"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of the following was not one of Joseph Stalin&#039;s ten blows during World War II?",
+      "correct_answer": "Vistula-Oder Offensive",
+      "incorrect_answers": [
+        "Crimean Offensive",
+        "Leningrad-Novgorod Offensive",
+        "Operation Bagration"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Diablo lore, this lesser evil spawned from one of the seven heads of Tathamet, and was known as the Maiden of Anguish.",
+      "correct_answer": "Andariel",
+      "incorrect_answers": [
+        "Valla",
+        "Malthael",
+        "Kashya"
+      ]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In the name of the fictional SCP Foundation, what does the &quot;SCP&quot; stand for?",
+      "correct_answer": "Special Containment Procedures",
+      "incorrect_answers": [
+        "Secure, Contain, Protect",
+        "Supernatural Creature Preservation",
+        "Silent Community Protection"
+      ]
+    }
+  ]
+}

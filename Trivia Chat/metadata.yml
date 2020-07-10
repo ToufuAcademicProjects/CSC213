@@ -1,0 +1,18 @@
+---
+:id: 18152448
+:submitters:
+- :name: Houfu Yan
+  :email: yanhoufu@grinnell.edu
+- :name: James A. Msekela
+  :email: msekelaj@grinnell.edu
+- :name: Henry Mahar
+  :email: maharhen@grinnell.edu
+- :name: Ryan Rosol
+  :email: rosolrya@grinnell.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2019-05-14 14:34:08.260982000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2019-05-14 07:34:08.260982000 Z
+:status: processed
+:score: 85.0

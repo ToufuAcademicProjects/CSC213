@@ -1,0 +1,245 @@
+{
+  "response_code": 0,
+  "results": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which company did Gabe Newell work at before founding Valve Corporation?",
+      "correct_answer": "Microsoft",
+      "incorrect_answers": [
+        "Apple",
+        "Google",
+        "Yahoo"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What&#039;s the name of Batman&#039;s parents?",
+      "correct_answer": "Thomas &amp; Martha",
+      "incorrect_answers": [
+        "Joey &amp; Jackie",
+        "Jason &amp; Sarah",
+        "Todd &amp; Mira"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What country is the second largest in the world by area?",
+      "correct_answer": "Canada",
+      "incorrect_answers": [
+        "Russia",
+        "China",
+        "United States of America"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which game did NOT get financed via Crowdfunding?",
+      "correct_answer": "Enter the Gungeon",
+      "incorrect_answers": [
+        "Town of Salem",
+        "Undertale",
+        "Tower Unite"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "List the following Iranic empires in chronological order:",
+      "correct_answer": "Median, Achaemenid, Parthian, Sassanid",
+      "incorrect_answers": [
+        "Median, Achaemenid, Sassanid, Parthian",
+        "Achaemenid, Median, Parthian, Sassanid",
+        "Achaemenid, Median, Sassanid, Parthian"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What was the name of the first Robin in the Batman comics?",
+      "correct_answer": "Dick Grayson",
+      "incorrect_answers": [
+        "Bruce Wayne",
+        "Jason Todd",
+        "Tim Drake"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is on display in the Madame Tussaud&#039;s museum in London?",
+      "correct_answer": "Wax sculptures",
+      "incorrect_answers": [
+        "Designer clothing",
+        "Unreleased film reels",
+        "Vintage cars"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these Counter-Strike maps is a bomb defuse scenario?",
+      "correct_answer": "Prodigy",
+      "incorrect_answers": [
+        "747",
+        "Havana",
+        "Oilrig"
+      ]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "On average, Americans consume 100 pounds of what per second?",
+      "correct_answer": "Chocolate",
+      "incorrect_answers": [
+        "Potatoes",
+        "Donuts",
+        "Cocaine"
+      ]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these car models are produced by Lamborghini?",
+      "correct_answer": "Aventador",
+      "incorrect_answers": [
+        "Huayra",
+        "918",
+        "Chiron"
+      ]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In Norse mythology, what is the name of the serpent which eats the roots of the ash tree Yggdrasil?",
+      "correct_answer": "Nidhogg",
+      "incorrect_answers": [
+        "Bragi",
+        "Odin",
+        "Ymir"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+      "correct_answer": "Mercedes-AMG Petronas",
+      "incorrect_answers": [
+        "Scuderia Ferrari",
+        "McLaren Honda",
+        "Red Bull Racing Renault"
+      ]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the oldest team in Major League Baseball?",
+      "correct_answer": "Atlanta Braves",
+      "incorrect_answers": [
+        "Chicago Cubs",
+        "Cincinnati Reds",
+        "St. Louis Cardinals"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What programming language was used to create the game &quot;Minecraft&quot;?",
+      "correct_answer": "Java",
+      "incorrect_answers": [
+        "HTML 5",
+        "C++",
+        "Python"
+      ]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+      "correct_answer": "Caucasus",
+      "incorrect_answers": [
+        "Stalingrad",
+        "Crimea",
+        "Voronezh"
+      ]
+    },
+    {
+      "category": "Animals",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the collective noun for a group of crows?",
+      "correct_answer": "Murder",
+      "incorrect_answers": [
+        "Pack",
+        "Gaggle",
+        "Herd"
+      ]
+    },
+    {
+      "category": "Entertainment: Board Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The board game &quot;Ra&quot; was designed by which designer? ",
+      "correct_answer": "Reiner Knizia",
+      "incorrect_answers": [
+        "Bruno Cathala",
+        "Uwe Rosenburg",
+        "Allison Kline"
+      ]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these games takes place in the Irish town of Doolin, with the option to play as one of the characters, Ellen and Keats?",
+      "correct_answer": "Folklore",
+      "incorrect_answers": [
+        "Shadow of the Colossus",
+        "ICO",
+        "Beyond Good &amp; Evil"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "In Big Hero 6, what fictional city is the Big Hero 6 from?",
+      "correct_answer": "San Fransokyo",
+      "incorrect_answers": [
+        "San Tokyo",
+        "Tokysisco",
+        "Sankyo"
+      ]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On the NBC show Community, whose catch-phrase was &quot;Pop! Pop!&quot;?",
+      "correct_answer": "Magnitude",
+      "incorrect_answers": [
+        "Star Burns",
+        "Leonard",
+        "Senoir Chang"
+      ]
+    }
+  ]
+}
